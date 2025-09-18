@@ -1,4 +1,4 @@
-# 📝 Text Analyzer
+## 📝 Text Analyzer
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
