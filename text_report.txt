@@ -1,0 +1,54 @@
+-------------------
+Текст для анализа:
+  Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  
+
+ Символов: 1160 
+ Слов: 184 
+ Предложений: 7 
+ Самое длинное слово: consetetur 
+
+-------------------
+Текст для анализа:
+  Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  
+
+ Символов: 1160 
+ Слов: 184 
+ Предложений: 7 
+ Самое длинное слово: consetetur 
+
+-------------------
+Текст для анализа:
+ Введите текст для анализа: Введите текст для анализа:  Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Введите текст для анализа: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet!   
+
+ Символов: 1215 
+ Слов: 192 
+ Предложений: 7 
+ Самое длинное слово: consetetur 
+
+-------------------
+Текст для анализа:
+ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet!  
+
+ Символов: 592 
+ Слов: 100 
+ Предложений: 7 
+ Самое длинное слово: consetetur 
+
+-------------------
+Текст для анализа:
+ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet!  
+
+ Символов: 592 
+ Слов: 100 
+ Предложений: 7 
+ Самое длинное слово: consetetur 
+
+-------------------
+Текст для анализа:
+ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet!  
+
+ Символов: 592 
+ Слов: 100 
+ Предложений: 6 
+ Самое длинное слово: consetetur 
+
