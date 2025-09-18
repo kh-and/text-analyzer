@@ -1,3 +1,5 @@
+import os
+from datetime import datetime
 import re
 
 def symbol_count(text):
@@ -23,12 +25,22 @@ def longest_word(text):
     print("Самое длинное слово: ", word)
     return word
 
-def save_report(save, filename):
+def save_report(save: str, filename: str = None):
+    os.makedirs("reports", exist_ok=True)
+
+    if not filename:
+        filename = datetime.now().strftime("report_%Y-%m-%d_%H-%M-%S.txt")
+    else:
+        if not filename.endswith(".txt"):
+            filename += ".txt"
+
+    filepath = os.path.join("reports", filename)
+
     try:
-        with open(filename, 'a') as f:
+        with open(filepath, "w", encoding="utf-8") as f:
             f.write(save)
     except IOError as e:
-        print(f"Error saving report: {e}")
+        print(f"Ошибка сохранения отчёта: {e}")
 
 
 def main():
@@ -41,14 +53,16 @@ def main():
         longest = longest_word(text)
 
         save_log = (
-            f"\n-------------------\n"
             f"Текст для анализа:\n{text}\n\n"
             f"Символов: {symbol}\n"
             f"Слов: {word}\n"
             f"Предложений: {sentences}\n"
             f"Самое длинное слово: {longest}\n"
         )
-        save_report(save_log, "text_report.txt")
+        
+        user_filename = input("Введите имя файла для сохранения (Enter для авто): ")
+        save_report(save_log, user_filename.strip())
+        save_report(save_log)
 
         r = input("Хотите продолжить? (y/n): ")
         if r not in ["y", "Y"]:
