@@ -17,11 +17,11 @@
 ---
 ## ⚙️ Установка и запуск
 1. Склонируйте репозиторий:
-    ```bash
+   ```bash
    git clone https://github.com/ВАШ_НИК/text-analyzer.git
    cd text-analyzer
-2.Запустите программу:
-
+2. Запустите программу:
+    ```bash
     python analyzer.py
 ---
 💻 Пример работы
